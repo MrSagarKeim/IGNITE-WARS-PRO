@@ -14,6 +14,6 @@ We took input from the gyroscope sensor, pushed buttons, and relayed the data to
 ## [Working Demo](https://www.youtube.com/watch?v=pUqISgHpKUU)
 
 ## Team Members:-
-  -> Harsh Kumar
-  -> Shashank Daima
-  -> Sagar Keim
+  - Harsh Kumar
+  - Shashank Daima
+  - Sagar Keim
